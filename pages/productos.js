@@ -14,6 +14,7 @@ const OBTENER_PRODUCTOS = gql`
   }
 `;
 
+
 const Productos = () => {
 
   // Consultar los productos
