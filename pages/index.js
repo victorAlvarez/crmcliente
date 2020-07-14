@@ -59,6 +59,7 @@ const Index = () => {
               ))}
             </tbody>
           </table>
+          
         </Layout>
       ) : vistaProtegida() }
     </div>
